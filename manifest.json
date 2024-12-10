@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "EarlyTube",
+    "version": "1.0",
+    "description": "Make YouTube look like the good old days",
+    "permissions": ["activeTab"],
+    "host_permissions": ["https://www.youtube.com/*"],
+    "content_scripts": [
+      {
+        "matches": ["https://www.youtube.com/*"],
+        "css": ["styles.css"],
+        "js": [] 
+      }
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    }
+  }

@@ -1,0 +1,191 @@
+#masthead > #container {
+  background: linear-gradient(0deg, #550000, #aa5555);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+
+
+.watch-root-element {
+   background: linear-gradient(135deg, #330000, #333300);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+
+.ytd-subscribe-button-renderer > yt-button-shape {
+  background: linear-gradient(0deg, #aa0000, #aa2222);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+#bottom-row > #description {
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(222, 222, 0, 0.2);
+ transition: all 0.3s ease;
+}
+#sections > .ytd-guide-renderer {
+   background: linear-gradient(0deg, #442200, #996644);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+
+.ytd-two-column-browse-results-renderer > #contents {
+   background: linear-gradient(54deg, #220000, #442222);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+#chips-content {
+   background: linear-gradient(0deg, #442200, #996644);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+
+#search-form > #container {
+   background: linear-gradient(0deg, #330000, #883333);
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+#search-icon-legacy {
+   background: linear-gradient(0deg, #662200, #884433);
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+
+}
+
+#voice-search-button yt-button-shape {
+   background: linear-gradient(0deg, #330000, #883333);
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+
+#content > .style-scope {
+   background: linear-gradient(180deg, #110000, #392222);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+ transition: all 0.3s ease;
+}
+.ytd-mini-guide-renderer > #endpoint {
+   background: linear-gradient(0deg, #442200, #996644);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+#guide-links-primary {
+   background: linear-gradient(0deg, #221100, #443311);
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+#guide-links-secondary {
+   background: linear-gradient(0deg, #221100, #443311);
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+
+
+#header > .ytd-multi-page-menu-renderer {
+   background: linear-gradient(0deg, #442200, #996644);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+#sections > .ytd-multi-page-menu-renderer {
+   background: linear-gradient(0deg, #44220055, #99664455);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+
+#guide-content > #header {
+   background: linear-gradient(0deg, #550000, #aa5555);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+
+.style-scope > #dismissible > .details {
+background: linear-gradient(90deg, #221100ff, #33110000);
+ transition: all 0.3s ease;
+border-radius: 12px;
+padding: 18px;
+}
+.style-scope > #contents > .style-scope > #scroll-outer-container > #scroll-container {
+background: linear-gradient(0deg, #221100ff, #33110000);
+ transition: all 0.3s ease;
+border-radius: 12px;
+padding: 18px;
+}
+
+
+.yt-multi-page-menu-section-renderer > .yt-simple-endpoint {
+background: linear-gradient(270deg, #11110033, #15150000);
+ transition: all 0.3s ease;
+   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+border-radius: 12px;
+}
+.ytd-guide-renderer > #items > .style-scope > #endpoint > .style-scope {
+background: linear-gradient(270deg, #11110000, #15150000);
+ transition: all 0.3s ease;
+   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.yt-subscribe-button-view-model-wiz__container {
+   background: linear-gradient(0deg, #aa0000, #aa2222);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+#guide-inner-content {
+   background: linear-gradient(0deg, #221100, #443311);
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+#chips > .style-scope{
+border-radius: 0px;
+}
+
+.page-header-view-model-wiz__page-header-headline > .page-header-view-model-wiz__page-header-headline-info {
+   background: linear-gradient(0deg, #33110000, #88443355);
+ box-shadow: 0 4px 10px rgba(100, 10, 0, 0.3);
+border-radius: 12px;
+ transition: all 0.3s ease;
+}
+.page-header-view-model-wiz__page-header-headline {
+   background: linear-gradient(0deg, #33110000, #88443355);
+ box-shadow: 0 4px 10px rgba(100, 10, 0, 0.3);
+border-radius: 12px;
+ transition: all 0.3s ease;
+}
+.style-scope > #post > .style-scope {
+   background: linear-gradient(0deg, #442200, #996644);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+}
+.style-scope> #post #content-text {
+background: linear-gradient(0deg, #44220000, #99664400);
+box-shadow: 0 4px 10px rgba(100, 10, 0, 0.0);
+}
+.style-scope > #comment > #body {
+   background: linear-gradient(0deg, #44220033, #99664488);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;
+padding: 15px;
+}
+.style-scope> #comment #content-text {
+background: linear-gradient(0deg, #44220000, #99664400);
+box-shadow: 0 4px 10px rgba(100, 10, 0, 0.0);
+}
+.style-scope > #replies {
+   background: linear-gradient(0deg, #44220033, #99664433);
+ border-radius: 12px;
+ box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+ transition: all 0.3s ease;;
+}
+.style-scope> #replies #content-text {
+background: linear-gradient(0deg, #44220000, #99664400);
+box-shadow: 0 4px 10px rgba(100, 10, 0, 0.0);
+}
